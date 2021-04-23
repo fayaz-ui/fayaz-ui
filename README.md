@@ -1,4 +1,5 @@
-- #👋 Hi, I’m @fayaz-ui
+#full stack web Designer/Developer
+- 👋 Hi, I’m @fayaz-ui
 - 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning fundamentals of information technology.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
