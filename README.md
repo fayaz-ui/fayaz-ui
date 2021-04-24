@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full-stack web development.
 - 🌱 I’m currently learning fundamentals of information technology.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
-- 📫 you can contact me on [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/)
+- 📫 you can contact me on [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
 
 <!---
 fayaz-ui/fayaz-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
