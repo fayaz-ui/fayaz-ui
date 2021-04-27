@@ -1,6 +1,6 @@
 ## full stack web Designer/Developer
 
-- 👋 Hi, I’m @fayaz-ui
+- 👋 Hi, I’m Mohd Fayaz Ansari @fayaz-ui
 - 👀 I’m interested in Full-stack web development and competitive programming.
 - 🌱 I’m currently learning fundamentals of information technology.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
