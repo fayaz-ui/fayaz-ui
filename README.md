@@ -6,7 +6,7 @@
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to code with chAi :)
+- ⚡ Fun fact: I love to code with chAi usually :)
 
 <!---
 fayaz-ui/fayaz-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
