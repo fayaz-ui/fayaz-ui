@@ -1,30 +1,17 @@
-## full stack web Designer/Developer
+## Hi there!! I'm Fayaz 👋 A full stack web Designer/Developer
 
-- 👋 Hi, I’m Mohd Fayaz Ansari @fayaz-ui
 - 👀 I’m interested in Full-stack web development and competitive programming.
 - 🌱 I’m currently learning fundamentals of information technology.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
 - 📫 you can contact me on [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to code with chAi :)
 
 <!---
 fayaz-ui/fayaz-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there, I'm Fayaz 👋
-
-- 📫 you can contact me on [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
