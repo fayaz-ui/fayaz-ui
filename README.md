@@ -3,8 +3,8 @@
 - 👀 I’m interested in Full-stack web development and competitive programming.
 - 🌱 I’m currently learning fundamentals of information technology.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
-- 📫 you can contact me on [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to code with chAi :)
 
