@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/81766772/116790851-3d1c8500-aad4-11eb-886c-57fdbfbdc18a.png)
-## Hi there!! I'm Fayaz 👋 A full stack web Designer/Developer
+## Hi there!! I'm Fayaz 👋 A full stack website Designer/Developer
 
 - 👀 I’m passionate about cloud technologies and blockchain.
 - 🌱 I’m currently learning fundamentals of information technology and AWS.
