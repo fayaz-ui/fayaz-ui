@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/81766772/116790851-3d1c8500-aad4-11eb-886c-57fdbfbdc18a.png)
 ## Hi there!! I'm Fayaz 👋 A full stack website Designer/Developer
 
-- 👀 I’m passionate about cloud technologies and blockchain.
+- 👀 I’m passionate about cloud technologies and blockchain(crypto)
 - 🌱 I’m currently learning fundamentals of information technology and AWS.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
