@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I love to code with chAi usually :)
+- 🧿 Any type of suggestion's and recommendations are most welcome :) 
 
 ### My Spotify Playing 🎧
 
