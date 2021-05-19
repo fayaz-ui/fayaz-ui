@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I love to code with chAi usually :)
 - 🧿 Any type of suggestion's and recommendation's are most welcome:)
-- ✔ I usually argue with techies on my Twitter handle, which is quite interesting😂
+- ✔ I usually argue with techies on my Twitter handle, which is quite interesting :)😂
 
 ### My Spotify Playing 🎧
 
