@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/81766772/119702956-adb88680-be73-11eb-949c-7858e9fdafd5.png)
 ## Hi there!! I'm Fayaz 👋 A full-stack Developer(MERN)
-▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.98%
+▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.97%
 
 - 🌱 I’m currently learning fundamentals of information technology and AWS.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
