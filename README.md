@@ -42,4 +42,4 @@
 <br/>
 <br/>
 
-### thank's for visiting.
+### thank's for visiting my github.
