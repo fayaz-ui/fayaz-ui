@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Fundamentals of information technology and AWS.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
-- 👀 I’m passionate about cloud technologies and blockchain(crypto)
+- 👀 I’m passionate about cloud technologies and blockchain Technology
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
 - 🥅 2021 Goal's: Contribute more to Open Source projects.
 - 👯 I’m looking to collaborate with other content creators.
