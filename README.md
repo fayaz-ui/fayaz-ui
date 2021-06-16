@@ -2,7 +2,7 @@
 ## Hi there!! I'm Fayaz 👋 A full-stack Developer (MERN)
 ▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.97%
 
-- 🌱 I’m currently learning Fundamentals of information technology and AWS.
+- 🌱 I’m currently learning Fundamentals of information technology And AWS.
 - 💞️ I’m looking to collaborate on open source projects and ideas.
 - 👀 I’m passionate about cloud technologies and blockchain Technology
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
