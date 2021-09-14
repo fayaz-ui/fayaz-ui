@@ -12,7 +12,7 @@
 - 🧿 Any type of suggestion's and recommendation's are most welcome:)
 - ✔ I usually argue with techies on my Twitter handle, which is quite interesting :)😂
 
-### Connect with me:-
+### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
