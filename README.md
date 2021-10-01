@@ -8,7 +8,7 @@
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/mohd-fayaz-08649b170/) and [Twitter](https://twitter.com/Fayazansari_)
 - 🥅 2021 Goal's: Contribute more to Open Source projects.
 - 👯 I’m looking to collaborate with other content creators.
-- ⚡ Fun fact: I love to code with chAi usually :)
+- ⚡ Fun fact: I love to code with chai usually :)
 - 🧿 Any type of suggestion's and recommendation's are most welcome:)
 - ✔ I usually argue with techies on my Twitter handle, which is quite interesting :)😂
 
